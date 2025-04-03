@@ -42,8 +42,8 @@ Follow these steps to set up and run the project:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/Shrinidhi444/react-movie-database.git
-cd react-movie-database
+git clone https://github.com/Shrinidhi444/react-moviedb.git
+cd react-moviedb
 ```
 
 ### 2️⃣ **Install Dependencies**
